@@ -8,3 +8,5 @@ python rag_core.py
 - Builds/loads FAISS index.
 - Retrieves relevant telecom risks.
 - Generates grounded response (with gpt2 example).
+
+Demo: Run python rag_core.py to see secure query → retrieval → generation. Handles spoofing risks with OWASP mitigations.Demo: Run python rag_core.py to see secure query → retrieval → generation. Handles spoofing risks with OWASP mitigations.
